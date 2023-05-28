@@ -2,4 +2,5 @@ body {
     font-family: 'Roboto', sans-serif;
     line-height: 1.2;
     font-size: 18px;
+    max-width: 90%;
 }
